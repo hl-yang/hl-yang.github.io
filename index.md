@@ -23,6 +23,6 @@ Wireless Communication Systems, Network Optimization, Federated Learning, and In
 
 ## Honors and Awards
 - Outstanding Student, Academic English and Research Skills Training Program, The University of Toronto, Canada, 2022.
-- Guangdong Patent Award-Excellence Award，2021.
+- Guangdong Excellent Patent Award，2021.
 - Outstanding Graduate, Shenzhen University, 2019.
 - National Scholarship for Postgraduate, Ministry of Education of China, 2018.
