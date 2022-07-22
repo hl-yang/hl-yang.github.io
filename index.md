@@ -18,7 +18,7 @@ Wireless Communication Systems, Network Optimization, Federated Learning, and In
 - **H. Yang**, R. Ruby, and K. Wu*. Delay performance of priority-queue equipped UAV-based mobile relay networks: Exploring the impact of trajectories. Computer Networks. 2022; 210:108856. **SCI, JCR Q1**. [DOI: 10.1016/j.comnet.2022.108856](https://doi.org/10.1016/j.comnet.2022.108856)
 - **H. Yang**, R. Ruby, Q.-V. Pham, and K. Wu*. Aiding a Disaster Spot via Multi-UAV-based IoT Networks: Energy and Mission Completion Time-Aware Trajectory Optimization. IEEE Internet of Things Journal. 2021; 9(8):5853-5867. **SCI, JCR Q1**. [DOI: 10.1109/JIOT.2021.3109138](https://doi.org/10.1109/JIOT.2021.3109138)
 - L. Wang, **H. Yang**, X. Qi, J. Xu, and  K. Wu*. iCast: Fine-Grained Wireless Video Streaming over Internet of Intelligent Vehicles. IEEE Internet of Things Journal. 2019; 6(1):111-123. **SCI, JCR Q1**. [DOI: 10.1109/JIOT.2018.2872518](https://doi.org/10.1109/JIOT.2018.2872518)
-- L. Wang, **H. Yang**, J. Long, and K. Wu, J. Chen*. Enabling Ultra-dense UAV-aided Network with Overlapped Spectrum Sharing: Potential and Approaches. IEEE Network. 2018; 32(5):85-91. **SCI, JCR Q1**. [DOI: 10.1109/MNET.2018.1700464](https://doi.org/10.1109/MNET.2018.1700464)
+- L. Wang, **H. Yang**, J. Long, K. Wu, and J. Chen*. Enabling Ultra-dense UAV-aided Network with Overlapped Spectrum Sharing: Potential and Approaches. IEEE Network. 2018; 32(5):85-91. **SCI, JCR Q1**. [DOI: 10.1109/MNET.2018.1700464](https://doi.org/10.1109/MNET.2018.1700464)
 
 
 ## Honors and Awards
