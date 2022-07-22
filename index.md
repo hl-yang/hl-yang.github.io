@@ -2,7 +2,7 @@
 
 Hailiang Yang is currently a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ) (also known as Guangming Laboratory). 
 
-He received his bachelor's degree from SCAU in 2016, majoring in communication engineering. He received his M.S. and Ph.D. degrees from Shenzhen University in 2019 and 2022, respectively, majoring in computer science and technology (Ph.D. supervisor: Prof. Kaishun Wu).
+He received his bachelor's degree from SCAU in 2016, majoring in communication engineering. He received his M.S. and Ph.D. degrees from Shenzhen University in 2019 and 2022, respectively, majoring in computer science and technology (Ph.D. supervisor: [Prof. Kaishun Wu](https://kaishunwu.com)).
 
 Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.(518000)
 
