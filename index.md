@@ -1,5 +1,7 @@
 # Bio of Hailiang Yang
 
+![HlYang](https://user-images.githubusercontent.com/17810720/180350493-ae326864-f37c-4911-bbe5-cc8f470d64f6.jpg)
+
 Hailiang Yang is currently a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)(also known as Guangming Lab).
 He received his B.Eng. degree from SCAU in 2016, specializing in communication engineering. He then received his M.S. and Ph.D. degree from Shenzhen University in 2019 and 2022, respectively, specializing in computer science and technology(Supervised by Prof. Kaishun Wu).
 
