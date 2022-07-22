@@ -9,7 +9,7 @@ Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, Chin
 E-mail: hlyang AT ieee.org
 
 ## Research Interests
-His current research interests include federal learning, wireless communication systems, and IoT.
+Federated learning, wireless communication systems, and IoT.
 
 ## Selected Publications
 - R. Ruby, **H. Yang(Co-first)**, and K. Wu. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2022. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
