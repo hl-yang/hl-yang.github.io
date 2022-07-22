@@ -1,6 +1,6 @@
 # Bio of Hailiang Yang
 
-Hailiang Yang (杨海良) is currently a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ) (also known as Guangming Lab). 
+Hailiang Yang (杨海良) is currently a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ) (also known as Guangming Laboratory). 
 
 He received his B.Eng. degree from SCAU in 2016, specializing in communication engineering (EE). He received his M.S. and Ph.D. degree from Shenzhen University in 2019 and 2022, respectively, specializing in computer science and technology (supervised by Prof. Kaishun Wu).
 
@@ -9,7 +9,7 @@ Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, Chin
 E-mail: hlyang AT ieee.org
 
 ## Research Interests
-Federated learning, wireless communication systems, and IoT.
+Wireless Communication Systems, Network Optimization, Federated Learning, and IoT.
 
 ## Selected Publications
 - R. Ruby, **H. Yang(Co-first)**, and K. Wu*. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2022. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
