@@ -1,12 +1,12 @@
 # Bio of Hailiang Yang
 
-Hailiang Yang (杨海良) is currently a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ) (also known as Guangming Laboratory). 
+Hailiang Yang is currently a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ) (also known as Guangming Laboratory). 
 
 He received his B.Eng. degree from SCAU in 2016, specializing in communication engineering (EE). He received his M.S. and Ph.D. degree from Shenzhen University in 2019 and 2022, respectively, specializing in computer science and technology (supervised by Prof. Kaishun Wu).
 
 Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.(518000)
 
-E-mail: hlyang AT ieee.org
+E-mail: yanghailiang AT gml.ac.cn
 
 
 ## Research Interests
