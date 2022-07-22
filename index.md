@@ -4,9 +4,10 @@ Hailiang Yang (杨海良) is currently a Distinguished Associate Researcher at t
 
 He received his B.Eng. degree from SCAU in 2016, specializing in communication engineering (EE). He received his M.S. and Ph.D. degree from Shenzhen University in 2019 and 2022, respectively, specializing in computer science and technology (supervised by Prof. Kaishun Wu).
 
-Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.(518000)
+Address: ![addr2](https://user-images.githubusercontent.com/17810720/180388224-36851fef-03fe-40d0-86cc-853b23fecf93.jpg)
 
-E-mail: <img width="117" alt="image" src="https://user-images.githubusercontent.com/17810720/180387126-37d09901-8ef5-40a2-8144-b0c37024cf8b.png">
+E-mail:![mail2](https://user-images.githubusercontent.com/17810720/180388015-578fc2f9-abd4-41da-8d4b-d6a245174097.jpg)
+
 
 ## Research Interests
 Wireless Communication Systems, Network Optimization, Federated Learning, and IoT.
