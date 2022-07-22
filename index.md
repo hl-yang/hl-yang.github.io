@@ -1,4 +1,4 @@
-# Biography
+# Bio
 
 Hailiang Yang is currently a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ) (also known as Guangming Laboratory). 
 
