@@ -1,10 +1,10 @@
 # Bio of Hailiang Yang
 
-![hlyang](https://user-images.githubusercontent.com/17810720/180352355-2d080493-b09c-4f2e-8c57-764c9d4d0276.jpg)
-
 Hailiang Yang is currently a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)(also known as Guangming Lab). 
 
 He received his B.Eng. degree from SCAU in 2016, specializing in communication engineering. He received his M.S. and Ph.D. degree from Shenzhen University in 2019 and 2022, respectively, specializing in computer science and technology(Supervised by Prof. Kaishun Wu).
+
+E-mail: yanghailiang AT gml.ac.cn
 
 ## Selected Publication 
 - **H. Yang**, R. Ruby, Q.-V. Pham and K. Wu*. Aiding a Disaster Spot via Multi-UAV-based IoT Networks: Energy and Mission Completion Time-Aware Trajectory Optimization. IEEE Internet of Things Journal. 2021; 9(8):5853-5867. [DOI: 10.1109/JIOT.2021.3109138](https://doi.org/10.1109/JIOT.2021.3109138)
