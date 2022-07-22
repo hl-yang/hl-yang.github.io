@@ -1,37 +1,11 @@
-## Hailiang Yang 的个人主页
+## Hailiang Yang
 
-You can use the [editor on GitHub](https://github.com/hl-yang/hl-yang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hailiang Yang is currently a **Distinguished Associate Researcher** at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ).
+He received his bachelor's degree from South China Agricultural University in 2016, specializing in communication engineering. He then received his MS and PhD degrees from Shenzhen University in 2019 and 2022, respectively, specializing in computer science and technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Selected Publication 
+- H. Yang, R. Ruby, Q.-V. Pham and K. Wu*. Aiding a Disaster Spot via Multi-UAV-based IoT Networks: Energy and Mission Completion Time-Aware Trajectory Optimization. IEEE Internet of Things Journal. 2021; 9(8):5853-5867. [Link](DOI: 10.1109/JIOT.2021.3109138)
 
-### Markdown
+- H. Yang, R. Ruby and K. Wu*. Delay performance of priority-queue equipped UAV-based mobile relay networks: Exploring the impact of trajectories. Computer Networks. 2022; 210:108856. DOI: 10.1016/j.comnet.2022.108856
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hl-yang/hl-yang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- R. Ruby, H. Yang, F. A.P. Figueiredo, T. Huynh-The and K. Wu Energy-Efficient Multi-Processor-based Computation and Communication Resource Allocation in Two-Tier Federated Learning Networks. IEEE Internet of Things Journal. 2022. Marh 4; Early Access. DOI: 10.1109/JIOT.2022.3153996
