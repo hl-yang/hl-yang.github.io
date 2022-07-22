@@ -6,7 +6,7 @@ He received his B.Eng. degree from SCAU in 2016, specializing in communication e
 
 Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.(518000)
 
-E-mail: hlyang AT ieee.org
+E-mail: <img width="117" alt="image" src="https://user-images.githubusercontent.com/17810720/180387126-37d09901-8ef5-40a2-8144-b0c37024cf8b.png">
 
 ## Research Interests
 Wireless Communication Systems, Network Optimization, Federated Learning, and IoT.
