@@ -4,9 +4,9 @@ Hailiang Yang (杨海良) is currently a Distinguished Associate Researcher at t
 
 He received his B.Eng. degree from SCAU in 2016, specializing in communication engineering (EE). He received his M.S. and Ph.D. degree from Shenzhen University in 2019 and 2022, respectively, specializing in computer science and technology (supervised by Prof. Kaishun Wu).
 
-Address: ![addr2](https://user-images.githubusercontent.com/17810720/180388224-36851fef-03fe-40d0-86cc-853b23fecf93.jpg)
+Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.(518000)
 
-E-mail:![mail2](https://user-images.githubusercontent.com/17810720/180388015-578fc2f9-abd4-41da-8d4b-d6a245174097.jpg)
+E-mail: hlyang AT ieee.org
 
 
 ## Research Interests
