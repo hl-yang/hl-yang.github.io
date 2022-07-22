@@ -20,5 +20,6 @@ Wireless Communication Systems, Network Optimization, Federated Learning, and Io
 
 
 ## Honors and Awards
+- Outstanding Student, Academic English and Research Skills Training Program, The University of Toronto, Canada. 2022.1
 - Outstanding Graduate, Shenzhen University, 2019.6
 - National Scholarship for Postgraduate, Ministry of Education of China, 2018.10
