@@ -1,6 +1,6 @@
-## HlYang's Personal Page
+## Bio of Hailiang Yang
 
-Hailiang Yang is currently a **Distinguished Associate Researcher** at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ).
+**Hailiang Yang** is currently a **Distinguished Associate Researcher** at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ).
 He received his bachelor's degree from South China Agricultural University in 2016, specializing in communication engineering. He then received his M.S. and Ph.D. degree (Supervised by Prof. Kaishun Wu) from Shenzhen University in 2019 and 2022, respectively, specializing in computer science and technology.
 
 ## Selected Publication 
