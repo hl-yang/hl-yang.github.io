@@ -2,7 +2,9 @@
 
 Hailiang Yang is currently a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)](http://www.gml.ac.cn) (also known as Guangming Laboratory). 
 
-He received his B.S. degree from South China Agricultural University in 2016, majoring in communication engineering. He received his M.S. and Ph.D. degrees from Shenzhen University in 2019 and 2022, respectively, majoring in computer science and technology (Ph.D. supervisor: [Prof. Kaishun Wu](https://kaishunwu.com)).
+He received his B.Eng. degree from South China Agricultural University in 2016, majoring in communication engineering. He received his M.S. and Ph.D. degrees from Shenzhen University in 2019 and 2022, respectively, majoring in computer science and technology (Ph.D. supervisor: [Prof. Kaishun Wu](https://kaishunwu.com)). 
+
+He is a member of IEEE and IEEE Communications Society since 2019. He has served as a reviewer for several journals and conferences, including IEEE IoT Journal, IEEE VTC Spring 2022, etc.
 
 Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.(518000)
 
