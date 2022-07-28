@@ -24,8 +24,8 @@ Wireless Communication Systems, Network Optimization, Federated Learning, and In
 
 
 ## Honors and Awards
-- National Excellent Patent Award, "A mobile networking method and system for interference minimization（一种干扰最小化的移动组网方法与系统）", 2022.
+- National Excellent Patent Award, Patent Name: "A mobile networking method and system for interference minimization", 2022.
 - Outstanding Participant and Group Leader, Academic English and Research Skills Training Program, University of Toronto, Canada, 2022.
-- Guangdong Excellent Patent Award，"A mobile networking method and system for interference minimization（一种干扰最小化的移动组网方法与系统）", 2021.
+- Guangdong Excellent Patent Award，Patent Name: "A mobile networking method and system for interference minimization", 2021.
 - Outstanding Graduate, Shenzhen University, 2019.
 - National Scholarship for Postgraduate, Ministry of Education of China, 2018.
