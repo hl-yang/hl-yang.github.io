@@ -1,6 +1,6 @@
 # Bio
 
-Hailiang Yang is currently a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)](http://www.gml.ac.cn), headed by [Prof. Laizhong Cui](http://csse.szu.edu.cn/staff/cuilz/). 
+Hailiang Yang is currently a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)](http://www.gml.ac.cn)(headed by [Prof. Laizhong Cui](http://csse.szu.edu.cn/staff/cuilz/)). 
 
 He received his B.Eng. degree from South China Agricultural University in 2016, majoring in communication engineering. He received his M.S. and Ph.D. degrees from Shenzhen University in 2019 and 2022, respectively, majoring in computer science and technology (Ph.D. supervisor: [Prof. Kaishun Wu](https://kaishunwu.com)). 
 
