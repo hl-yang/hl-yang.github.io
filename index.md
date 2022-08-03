@@ -12,7 +12,7 @@ E-mail: yanghailiang AT gml.ac.cn
 
 
 ## Research Interests
-Wireless Communication Systems, Network Optimization, Federated Learning, and Internet of Things.
+Wireless Network and Systems, Artificial Intelligence, and Internet of Things.
 
 ## Selected Publications
 - R. Ruby, **H. Yang(Co-first)**, and K. Wu*. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2022. **SCI, JCR Q1**. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
