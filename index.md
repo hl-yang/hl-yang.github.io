@@ -4,7 +4,7 @@ Hailiang Yang is currently a Distinguished Associate Researcher at the [Guangdon
 
 He received his B.Eng. degree from South China Agricultural University in 2016, majoring in communication engineering. He received his M.S. and Ph.D. degrees from Shenzhen University in 2019 and 2022, respectively, majoring in computer science and technology (Ph.D. supervisor: [Prof. Kaishun Wu](https://kaishunwu.com)). 
 
-He is an IEEE member (SM'19-M'22) and a CCF member (SM'18-M'22). He has served as a reviewer for several journals and conferences, including IEEE IoT Journal, IEEE VTC 2022 Spring, etc.
+He is an IEEE member (SM'19-M'22) and a CCF member (SM'18-M'22). 
 
 Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.(518000)
 
