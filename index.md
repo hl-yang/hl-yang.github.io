@@ -6,6 +6,8 @@ He received his B.Eng. degree from South China Agricultural University in 2016, 
 
 He is an IEEE member (SM'19-M'22) and a CCF member (SM'18-M'22). 
 
+He is a supervisor of master students in computer science, and he always welcomes highly self-motivated students to join.
+
 Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.(518000)
 
 E-mail: yanghailiang AT gml.ac.cn
