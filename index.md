@@ -6,7 +6,7 @@ He received his B.Eng. degree from South China Agricultural University in 2016, 
 
 He is an IEEE member (SM'19-M'22) and a CCF member (SM'18-M'22). 
 
-He has qualified as a master’s tutor starting from the 2023 branch. He always welcomes motivated students to join; please contact him via email.
+He has qualified as a master’s tutor starting from the 2022 fall branch.
 
 Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.(518000)
 
@@ -15,6 +15,8 @@ E-mail: yanghailiang AT gml.ac.cn
 
 ## Research Interests
 Wireless Network and Systems, Artificial Intelligence, and Internet of Things.
+
+***Openings***: He would like to work with students, both undergraduate and graduate students. Students with similar research interests, please get in touch with him by email.
 
 ## Selected Publications
 - R. Ruby, **H. Yang(Co-first)**, and K. Wu*. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2022. **SCI, JCR Q1**. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
