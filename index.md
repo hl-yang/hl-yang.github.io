@@ -2,11 +2,11 @@
 
 Hailiang Yang is currently a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)](http://www.gml.ac.cn), working with [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/) as Co-PI. 
 
-He received his B.Eng. degree from South China Agricultural University in 2016, majoring in Communication Engineering. He received his M.S. and Ph.D. degrees from Shenzhen University in 2019 and 2022, respectively, majoring in Computer Science and Technology (Ph.D. supervisor: [Prof. Kaishun Wu](https://kaishunwu.com)). 
+He received his B.Eng. degree from South China Agricultural University in 2016, majoring in Communication Engineering. He received his M.S. and Ph.D. degrees from Shenzhen University in 2019 and 2022, respectively, majoring in Computer Science and Technology. (Ph.D. supervisor: [Prof. Kaishun Wu](https://kaishunwu.com))
 
 He is an IEEE member (SM'19-M'22) and a CCF member (SM'18-M'22). 
 
-He has qualified as a master’s tutor starting from the 2023 branch, and self-motivated students are welcome to join.
+He has qualified as a master’s tutor starting from the 2023 branch. He always welcomes motivated students to join; please contact him via email.
 
 Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.(518000)
 
