@@ -1,12 +1,10 @@
 # Bio
 
-Hailiang Yang is currently a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)](http://www.gml.ac.cn), working with [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/) as Co-PI. 
+Hailiang Yang is currently a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)](http://www.gml.ac.cn), working with [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/) as Co-PI. He is qualified as a master tutor.
 
 He received his B.Eng. degree from South China Agricultural University in 2016, majoring in Communication Engineering. He received his M.S. and Ph.D. degrees from Shenzhen University in 2019 and 2022, respectively, majoring in Computer Science and Technology. (Ph.D. supervisor: [Prof. Kaishun Wu](https://kaishunwu.com))
 
 He is an IEEE member (SM'19-M'22) and a CCF member (SM'18-M'22). 
-
-He has qualified as a master’s tutor starting in 2022 fall.
 
 Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.(518000)
 
@@ -16,7 +14,7 @@ E-mail: hlyang AT ieee.org
 ## Research Interests
 Wireless Network and Systems, Artificial Intelligence, and Internet of Things.
 
-***Openings***: He would like to do research with students. Students with similar research interests are welcome to contact him by email.
+***Openings***: He would like to do research with students (Graduate admissions are based on Shenzhen University). Students with similar research interests are welcome to contact him by email.
 
 ## Selected Publications
 - R. Ruby, **H. Yang(Co-first)**, and K. Wu*. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2022. **SCI, JCR Q1**. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
