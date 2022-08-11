@@ -14,7 +14,7 @@ E-mail: hlyang AT ieee.org
 ## Research Interests
 Wireless Network and Systems, Artificial Intelligence, and Internet of Things.
 
-***Openings***: He would like to do research with students (Graduate admissions are based on Shenzhen University). Students with similar research interests are welcome to contact him by email.
+***Openings***: He would like to do research with students (Graduate admissions are based on [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm)). Students with similar research interests are welcome to contact him by email.
 
 ## Selected Publications
 - R. Ruby, **H. Yang(Co-first)**, and K. Wu*. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2022. **SCI, JCR Q1**. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
