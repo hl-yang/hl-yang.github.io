@@ -1,6 +1,6 @@
 # Bio
 
-Hailiang Yang is a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)](http://www.gml.ac.cn) and works as a joint PI with [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/). He has qualified as a master's tutor.
+Hailiang Yang is a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)](http://www.gml.ac.cn) and works as a joint PI with [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/).
 
 He received his B.Eng. degree from South China Agricultural University in 2016, majoring in Communication Engineering. He received his M.S. and Ph.D. degrees from Shenzhen University in 2019 and 2022, respectively, majoring in Computer Science and Technology. (Ph.D. supervisor: [Prof. Kaishun Wu](https://kaishunwu.com))
 
@@ -14,7 +14,7 @@ E-mail: hlyang AT ieee.org
 ## Research Interests
 Wireless Network and Systems, Artificial Intelligence, and Internet of Things.
 
-***Openings***: He would like to do research with students. Students with similar research interests are welcome to contact him by email.
+***Openings***: He is qualified as a master's tutor and seeks to conduct research with students. Students with similar research interests are welcome to contact him by email.
 (Graduate admissions are based on [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm))
 
 ## Selected Publications
