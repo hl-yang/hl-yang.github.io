@@ -6,9 +6,9 @@ He received his B.Eng degree in Communication Engineering from South China Agric
 
 He is an IEEE member (SM'19-M'22) and a CCF member (SM'18-M'22). 
 
-Address: 11/F, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.
+Address: 11/F, Block B, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.
 
-E-mail: hlyang AT ieee DoT org
+E-mail: hlyang at ieee dot org
 
 
 ## Research Interests
