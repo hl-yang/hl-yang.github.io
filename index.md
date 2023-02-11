@@ -4,7 +4,7 @@ Hailiang Yang is a Distinguished Associate Researcher at the [Guangdong Laborato
 
 He received his B.Eng degree in Communication Engineering from South China Agricultural University in 2016. He received his M.S. and Ph.D. degrees in Computer Science from Shenzhen University in 2019 and 2022, respectively. (Ph.D. supervisor: [Prof. Kaishun Wu](https://kaishunwu.com))
 
-He is an IEEE member (SM'19-M'22) and a CCF member (SM'18-M'22). 
+He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23) and CCF Member (SM'18-PM'22). 
 
 Address: 11/F, Block B, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.
 
