@@ -8,14 +8,14 @@ He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23) and CCF Member (SM'18-PM'2
 
 Address: 11/F, Block B, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.
 
-E-mail: hlyang at ieee dot org/ hailiangy at acm dot org
+E-mail: hlyang at ieee dot org / hailiangy at acm dot org
 
 
 ## Research Interests
 Wireless Communication and Mobile Computing, Artificial Intelligence, and Internet of Things.
 
 ***Openings***: Students with similar research interests are welcome to contact him by email.
-(Postgraduate admissions through [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm))
+(Postgraduate admissions through [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm), department code: 181, major code: 081200 (CS Academic), 085404 (CS Professional).)
 
 ## Selected Publications
 - R. Ruby, **H. Yang(Co-first)**, and K. Wu*. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2022. **SCI, JCR Q1**. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
