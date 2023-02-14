@@ -12,7 +12,7 @@ E-mail: hlyang at ieee dot org/ hailiangy at acm dot org
 
 
 ## Research Interests
-Wireless Network and Systems, Artificial Intelligence, and Internet of Things.
+Wireless Communication and Mobile Computing, Artificial Intelligence, and Internet of Things.
 
 ***Openings***: Students with similar research interests are welcome to contact him by email.
 (Postgraduate admissions through [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm))
