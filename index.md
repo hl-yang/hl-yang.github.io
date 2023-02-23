@@ -1,6 +1,6 @@
 # Bio
 
-Hailiang Yang is a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen)](http://www.gml.ac.cn). He has been selected as a talent for the special appointment of "Pengcheng Peacock Project".
+Hailiang Yang is a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen)](https://www.gml.ac.cn). He has been selected as a talent for the special appointment of "Pengcheng Peacock Project".
 
 He received his B.Eng degree in Communication Engineering from South China Agricultural University in 2016. He received his M.S. and Ph.D. degrees in Computer Science from Shenzhen University in 2019 and 2022, respectively. (Supervisor: [Prof. Kaishun Wu](https://kaishunwu.com))
 
@@ -27,8 +27,8 @@ Wireless Communication and Mobile Computing, Artificial Intelligence, and Intern
 
 
 ## Honors and Awards
-- National Excellent Patent Award, Patent Name: "A mobile networking method and system for interference minimization", 2022.
-- Outstanding Participant and Group Leader, Academic English and Research Skills Training Program, University of Toronto, Canada, 2022.
-- Ranked 1st (GPA) among Ph.D. students in Computer Science, SZU, 2020-2022.
-- Outstanding Graduate, Shenzhen University, 2019.
-- National Scholarship for Postgraduate, Ministry of Education of China, 2018.
+- **National Excellent Patent Award**, Patent Name: "A mobile networking method and system for interference minimization", 2022.
+- **Outstanding Participant and Group Leader**, Academic English and Research Skills Training Program, University of Toronto, Canada, 2022.
+- **Ranked 1st** in GPA among PhD students in Computer Science and Technology, Shenzhen University, 2020-2022.
+- **Outstanding Graduate**, Shenzhen University, 2019.
+- **National Scholarship for Postgraduate**, Ministry of Education of China, 2018.
