@@ -1,4 +1,4 @@
-# Bio
+## Biography
 
 Hailiang Yang is a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen)](https://www.gml.ac.cn). He has been selected as a talent for the special appointment of "Pengcheng Peacock Project".
 
