@@ -10,6 +10,7 @@ Address: 11/F, Block B, Ke Run Building, Ke Lian Road, Guangming District, Shenz
 
 E-mail: hlyang at ieee dot org / hailiangy at acm dot org
 
+---
 
 ## Research Interests
 Wireless Communication and Mobile Computing, Artificial Intelligence, and Internet of Things.
@@ -17,14 +18,17 @@ Wireless Communication and Mobile Computing, Artificial Intelligence, and Intern
 ***Openings***: Students with similar research interests are welcome to contact him by email.
 (Postgraduate admissions through [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm), department code: 181, major code: 081200 (CS Academic), 085404 (CS Professional).)
 
+---
+
 ## Selected Publications
-- R. Ruby, **H. Yang(Co-first)**, and K. Wu*. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2022. **SCI, JCR Q1**. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
-- R. Ruby, **H. Yang(Co-first)**, F.A. de Figueiredo, T. Huynh-The, and K. Wu*. Energy-Efficient Multi-Processor-based Computation and Communication Resource Allocation in Two-Tier Federated Learning Networks. IEEE Internet of Things Journal. 2022. **SCI, JCR Q1**. [DOI: 10.1109/JIOT.2022.3153996](https://doi.org/10.1109/JIOT.2022.3153996)
+- <ins>R. Ruby, **H. Yang(Co-first)**</ins>, and K. Wu*. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2022. **SCI, JCR Q1**. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
+- <ins>R. Ruby, **H. Yang(Co-first)**</ins>, F.A. de Figueiredo, T. Huynh-The, and K. Wu*. Energy-Efficient Multi-Processor-based Computation and Communication Resource Allocation in Two-Tier Federated Learning Networks. IEEE Internet of Things Journal. 2022. **SCI, JCR Q1**. [DOI: 10.1109/JIOT.2022.3153996](https://doi.org/10.1109/JIOT.2022.3153996)
 - **H. Yang**, R. Ruby, and K. Wu*. Delay performance of priority-queue equipped UAV-based mobile relay networks: Exploring the impact of trajectories. Computer Networks. 2022; 210:108856. **SCI, JCR Q1**. [DOI: 10.1016/j.comnet.2022.108856](https://doi.org/10.1016/j.comnet.2022.108856)
 - **H. Yang**, R. Ruby, Q.-V. Pham, and K. Wu*. Aiding a Disaster Spot via Multi-UAV-based IoT Networks: Energy and Mission Completion Time-Aware Trajectory Optimization. IEEE Internet of Things Journal. 2021; 9(8):5853-5867. **SCI, JCR Q1**. [DOI: 10.1109/JIOT.2021.3109138](https://doi.org/10.1109/JIOT.2021.3109138)
 - L. Wang, **H. Yang**, X. Qi, J. Xu, and  K. Wu*. iCast: Fine-Grained Wireless Video Streaming over Internet of Intelligent Vehicles. IEEE Internet of Things Journal. 2019; 6(1):111-123. **SCI, JCR Q1**. [DOI: 10.1109/JIOT.2018.2872518](https://doi.org/10.1109/JIOT.2018.2872518)
 - L. Wang, **H. Yang**, J. Long, K. Wu, and J. Chen*. Enabling Ultra-dense UAV-aided Network with Overlapped Spectrum Sharing: Potential and Approaches. IEEE Network. 2018; 32(5):85-91. **SCI, JCR Q1**. [DOI: 10.1109/MNET.2018.1700464](https://doi.org/10.1109/MNET.2018.1700464)
 
+---
 
 ## Honors and Awards
 - **National Excellent Patent Award**, Patent Name: "A mobile networking method and system for interference minimization", 2022.
