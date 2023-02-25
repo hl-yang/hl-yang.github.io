@@ -31,7 +31,7 @@ Wireless Communication and Mobile Computing, Artificial Intelligence, and Intern
 ---
 
 ## Honors and Awards
-- **National Excellent Patent Award**, Patent Name: "A mobile networking method and system for interference minimization", 2022.
+- **National Excellent Patent Award**, Patent Name: "A mobile networking method and system for interference minimization", National Intellectual Property Administration, 2022.
 - **Outstanding Participant and Group Leader**, Academic English and Research Skills Training Program, University of Toronto, Canada, 2022.
 - **Ranked 1st** in GPA among PhD students in Computer Science and Technology, Shenzhen University, 2020-2022.
 - **Outstanding Graduate**, Shenzhen University, 2019.
