@@ -6,8 +6,6 @@ He received his B.Eng degree in Communication Engineering from South China Agric
 
 He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23) and CCF Member (SM'18-PM'22). 
 
-Address: 11/F, Block B, Ke Run Building, Ke Lian Road, Guangming District, Shenzhen, China.
-
 E-mail: hlyang at ieee dot org / hailiangy at acm dot org
 
 ---
