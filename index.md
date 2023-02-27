@@ -11,7 +11,7 @@ E-mail: hlyang at ieee dot org / hailiangy at acm dot org
 ---
 
 ## Research Interests
-Wireless Communication and Mobile Computing, Artificial Intelligence, and Internet of Things.
+Wireless Communication and Networking, Artificial Intelligence, and Internet of Things.
 
 ***Openings***: Students with similar research interests are welcome to contact him by email.
 Graduate students are admitted through [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm), department code: 181, major code: 081200 (CS Academic), 085404 (CS Professional).
