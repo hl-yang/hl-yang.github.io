@@ -4,7 +4,7 @@ Hailiang Yang is a Distinguished Associate Researcher at the [Guangdong Laborato
 
 He received his B.Eng degree in Communication Engineering from South China Agricultural University in 2016. He received his M.S and Ph.D degrees in Computer Science and Technology from Shenzhen University in 2019 and 2022, respectively. (His supervisor: [Prof. Kaishun Wu](https://kaishunwu.com))
 
-He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23) and CCF Member (SM'18-PM'22). 
+He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23) and CCF Member (SM'18-PM'22). He is a member of the CCF Network and Data Communication Professional Committee and a member of the Internet of Things Professional Committee.
 
 E-mail: [hlyang at ieee dot org](mailto:hlyang@ieee.org) / [hailiangy at acm dot org](mailto:hailiangy@acm.org)
 
@@ -13,7 +13,7 @@ E-mail: [hlyang at ieee dot org](mailto:hlyang@ieee.org) / [hailiangy at acm dot
 ## Research Interests
 Wireless Communication and Networking, Artificial Intelligence, and Internet of Things.
 
-***Openings***: **2023 Fall, multiple M.S in computer science positions available.** Students with similar research interests are welcome to contact him by [email](mailto:yanghailiang@gml.ac.cn).
+**Openings: 2023 Fall, multiple postgraduate positions are available.** Students with similar research interests are welcome to contact him by [email](mailto:yanghailiang@gml.ac.cn).
 Graduate students are admitted through [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm), department code: 181, major code: 081200 (CS Academic), 085404 (CS Professional).
 
 ---
