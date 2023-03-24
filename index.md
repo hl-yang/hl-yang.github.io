@@ -4,7 +4,7 @@ Hailiang Yang is a Distinguished Associate Researcher at the [Guangdong Laborato
 
 He received his B.Eng degree in Communication Engineering from South China Agricultural University in 2016. He received his M.S and Ph.D degrees in Computer Science and Technology from Shenzhen University in 2019 and 2022, respectively. (His supervisor: [Prof. Kaishun Wu](https://kaishunwu.com))
 
-He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23) and CCF Member (SM'18-PM'22). He is a member of the CCF Network and Data Communication Professional Committee and a member of the CCF Internet of Things Professional Committee.
+He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23) and CCF Member (SM'18-PM'22). He is a member of the CCF Network and Data Communication Professional Committee, CCF Internet of Things Professional Committee, and CCF Ubiquitous Computing Professional Committee.
 
 E-mail: [hlyang at ieee dot org](mailto:hlyang@ieee.org) / [hailiangy at acm dot org](mailto:hailiangy@acm.org)
 
