@@ -1,6 +1,6 @@
 ## Biography
 
-Hailiang Yang is a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen)](https://www.gml.ac.cn). He has been selected as a talent for the distinguished appointment of "Pengcheng Peacock Project".
+Hailiang Yang is a Distinguished Associate Researcher at the [Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen)](https://www.gml.ac.cn). He has been appointed as a talent for the "Pengcheng Peacock Project."
 
 He received his B.Eng degree in Communication Engineering from South China Agricultural University in 2016. He received his M.S and Ph.D degrees in Computer Science and Technology from Shenzhen University in 2019 and 2022, respectively. (His supervisor: [Prof. Kaishun Wu](https://kaishunwu.com))
 
