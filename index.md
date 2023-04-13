@@ -29,6 +29,6 @@ Graduate students are admitted through [Shenzhen University](https://yz.szu.edu.
 ## Honors and Awards
 - **National Excellent Patent Award**, Patent Name: "A mobile networking method and system for interference minimization", National Intellectual Property Administration, 2022.
 - **Outstanding Participant and Group Leader**, Academic English and Research Skills Training Program, University of Toronto, Canada, 2021.
-- **Ranked 1st** in GPA among PhD students in Computer Science and Technology, Shenzhen University.
+- **Ranked 1st** in GPA during the Ph.D, Shenzhen University.
 - **Outstanding Graduates**, Shenzhen University, 2019.
 - **National Scholarship for Postgraduate**, Ministry of Education of China, 2018.
