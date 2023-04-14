@@ -14,7 +14,7 @@ E-mail: [hlyang at ieee dot org](mailto:hlyang@ieee.org) / [hailiangy at acm dot
 Wireless Communication and Networking, Artificial Intelligence, and Internet of Things.
 
 **Openings: 2023 Fall, multiple postgraduate positions are available.** Students with similar research interests are welcome to contact him by [email](mailto:yanghailiang@gml.ac.cn).
-Graduate students are admitted through [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm), department code: 181, major code: 081200 (CS Academic), 085404 (CS Professional).
+Graduate students are admitted through [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm), department code: 181, major code: 081200, 085404.
 
 ---
 ## Academic Services
