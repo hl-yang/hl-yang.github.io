@@ -17,6 +17,15 @@ Wireless Communication and Networking, Artificial Intelligence, and Internet of 
 Graduate students are admitted through [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm), department code: 181, major code: 081200 (CS Academic), 085404 (CS Professional).
 
 ---
+## Academic Services
+
+Reviewer:
+- IEEE Transactions on Mobile Computing
+- IEEE Vehicular Technology Conference
+- IEEE Internet of Things Journal
+- EURASIP Journal on Wireless Communications and Networking
+
+---
 
 ## Selected Publications
 - <ins>Rukhsana Ruby, **Hailiang Yang(Co-first)**</ins>, and Kaishun Wu*. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2023; 27(2):888-899. **SCI, JCR Q1**. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
