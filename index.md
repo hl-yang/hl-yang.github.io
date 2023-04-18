@@ -13,7 +13,8 @@ E-mail: [yanghailiang@gml.ac.cn](mailto:yanghailiang@gml.ac.cn)
 ## Research Interests
 Network Optimization, Artificial Intelligence, and Internet of Things.
 
-**Openings: 2023 Fall, multiple postgraduate positions are available.** Students with self-discipline and pursuits are warmly welcomed to contact him.
+**Openings: 2023 Fall, multiple postgraduate positions are available.** Students with similar research interests please feel free to contact him.
+
 Graduate students are admitted through [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm), department code: 181, major code: 081200, 085404.
 
 ---
