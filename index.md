@@ -6,7 +6,7 @@ He received his B.Eng degree in Communication Engineering from South China Agric
 
 He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23) and CCF Member (SM'18-PM'22). He is a member of the CCF Network and Data Communication Professional Committee.
 
-E-mail: [hlyang at ieee dot org](mailto:hlyang@ieee.org) / [hailiangy at acm dot org](mailto:hailiangy@acm.org)
+E-mail: [yanghailiang@gml.ac.cn](mailto:yanghailiang@gml.ac.cn)
 
 ---
 
