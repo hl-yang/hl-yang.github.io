@@ -33,7 +33,7 @@ Reviewer:
 - <ins>Rukhsana Ruby, **Hailiang Yang(Co-first)**</ins>, Felipe A. P. de Figueiredo, Thien Huynh-The, and Kaishun Wu*. Energy-Efficient Multi-Processor-based Computation and Communication Resource Allocation in Two-Tier Federated Learning Networks. IEEE Internet of Things Journal. 2023,10(7):5689-5703. **SCI, JCR Q1**. [DOI: 10.1109/JIOT.2022.3153996](https://doi.org/10.1109/JIOT.2022.3153996)
 - **Hailiang Yang**, Rukhsana Ruby, and Kaishun Wu*. Delay performance of priority-queue equipped UAV-based mobile relay networks: Exploring the impact of trajectories. Computer Networks. 2022; 210:108856. **SCI, JCR Q1**. [DOI: 10.1016/j.comnet.2022.108856](https://doi.org/10.1016/j.comnet.2022.108856)
 - **Hailiang Yang**, Rukhsana Ruby, Quoc-Viet Pham, and Kaishun Wu*. Aiding a Disaster Spot via Multi-UAV-based IoT Networks: Energy and Mission Completion Time-Aware Trajectory Optimization. IEEE Internet of Things Journal. 2021; 9(8):5853-5867. **SCI, JCR Q1**. [DOI: 10.1109/JIOT.2021.3109138](https://doi.org/10.1109/JIOT.2021.3109138)
-
+- For more of my research, please visit my [Google Scholar](https://scholar.google.com/citations?user=BeyrndcAAAAJ&hl=en) page.
 ---
 
 ## Honors and Awards
