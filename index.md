@@ -15,8 +15,6 @@ Network Optimization, Artificial Intelligence, and Internet of Things.
 
 **Openings: 2023 Fall, multiple postgraduate positions are available.** Students with similar research interests are welcome to contact him.
 
-Graduate students are admitted through [Shenzhen University](https://yz.szu.edu.cn/sszs/gg.htm), department code: 181, major code: 081200, 085404.
-
 ---
 ## Academic Services
 
