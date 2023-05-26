@@ -1,10 +1,10 @@
 ## Biography
 
-Dr. Hailiang Yang is a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen) (Team leader: [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/)). He was selected as a Shenzhen High-Level Talent in 2022.
+Dr. Hailiang Yang is a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen). (Team leader: [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/)).
 
 He received his B.Eng degree in communication engineering from South China Agricultural University in 2016 and the M.Sc and Ph.D degrees in computer science and technology from Shenzhen University in 2019 and 2022, respectively. (Under the supervision of [Prof. Kaishun Wu](https://kaishunwu.com))
 
-He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23) and CCF Member (SM'18-PM'22). He is a member of the CCF Network and Data Communication Professional Committee.
+He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23) and CCF Member (SM'18-PM'22).
 
 E-mail: [yanghailiang@gml.ac.cn](mailto:yanghailiang@gml.ac.cn)
 
