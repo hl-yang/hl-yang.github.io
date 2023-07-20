@@ -24,6 +24,7 @@ Reviewer:
 - IEEE Internet of Things Journal
 - EURASIP Journal on Wireless Communications and Networking
 - MDPI Electronics
+- MDPI Applied Sciences
 
 ---
 
