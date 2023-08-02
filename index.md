@@ -20,7 +20,7 @@ Network Optimization, Artificial Intelligence, and Internet of Things.
 
 Reviewer:
 - IEEE Transactions on Mobile Computing
-- IEEE Vehicular Technology Conference
+- IEEE Vehicular Technology Conference 2022 Spring TPC Reviewer
 - IEEE Internet of Things Journal
 - EURASIP Journal on Wireless Communications and Networking
 - MDPI Electronics
