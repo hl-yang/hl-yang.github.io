@@ -4,14 +4,14 @@ Dr. Hailiang Yang is a Distinguished Associate Researcher at the Guangdong Labor
 
 He received his B.Eng degree in communication engineering from South China Agricultural University in 2016 and his M.Sc and Ph.D in computer science and technology from Shenzhen University in 2019 and 2022, respectively. (Under the supervision of [Prof. Kaishun Wu](https://kaishunwu.com).)
 
-He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23) and CCF Member (SM'18-PM'22).
+He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23), and CCF Member (SM'18-PM'22).
 
 E-mail: [yanghailiang@gml.ac.cn](mailto:yanghailiang@gml.ac.cn)
 
 ---
 
 ## Research Interests
-Network Optimization, Artificial Intelligence, and Internet of Things.
+Wireless Networks and Systems, Artificial Intelligence, and Internet of Things.
 
 **Openings: 2023 Fall, multiple postgraduate positions are available.** Students with similar research interests are welcome to contact him.
 
