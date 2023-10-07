@@ -1,6 +1,6 @@
 ## Biography
 
-Dr. Hailiang Yang is a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen).  He is a member of the Future Intelligent Network team led by [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/).
+Dr. Hailiang Yang is a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen). He is a Future Intelligent Network team member led by [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/).
 
 He received his B.Eng degree in communication engineering from South China Agricultural University in 2016 and his M.Sc and Ph.D in computer science and technology from Shenzhen University in 2019 and 2022, respectively. (Under the supervision of [Prof. Kaishun Wu](https://kaishunwu.com).)
 
@@ -37,8 +37,7 @@ Reviewer:
 ---
 
 ## Honors and Awards
-- **National Excellent Patent Award**, Patent Name: "A mobile networking method and system for interference minimization", National Intellectual Property Administration, 2022.
+- **National Excellent Patent Award**, Patent Name: "A mobile networking method and system for interference minimization," National Intellectual Property Administration, 2022.
 - **Outstanding Participant and Group Leader**, Academic English and Research Skills Training Program, University of Toronto, Canada, 2021.
-- **Ranked 1st** in GPA during the Ph.D, Shenzhen University.
 - **Outstanding Graduates**, Shenzhen University, 2019.
 - **National Scholarship for Postgraduate**, Ministry of Education of China, 2018.
