@@ -2,7 +2,7 @@
 
 Dr. Hailiang Yang is a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen). He is a Future Intelligent Network team member led by [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/).
 
-He received his B.Eng degree in communication engineering from South China Agricultural University in 2016 and his M.Sc and Ph.D in computer science and technology from Shenzhen University in 2019 and 2022, respectively. (Under the supervision of [Prof. Kaishun Wu](https://kaishunwu.com).)
+He received his B.S. in communication engineering from South China Agricultural University in 2016 and his M.S. and Ph.D. in computer science and technology from Shenzhen University in 2019 and 2022, respectively. (Under the supervision of [Prof. Kaishun Wu](https://kaishunwu.com).)
 
 He is an IEEE Member (SM'19-PM'22), ACM Member(PM'23), and CCF Member (SM'18-PM'22).
 
