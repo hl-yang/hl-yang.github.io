@@ -25,6 +25,7 @@ Reviewer:
 - EURASIP Journal on Wireless Communications and Networking
 - MDPI Electronics
 - MDPI Applied Sciences
+- MDPI Sensors
 
 ---
 
