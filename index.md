@@ -28,6 +28,10 @@ Reviewer:
 - MDPI Sensors
 
 ---
+## Teaching
+- Advanced Computer Architecture, Graduate Course
+
+---
 
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=BeyrndcAAAAJ&hl=en))
 - <ins>Rukhsana Ruby, **Hailiang Yang(Co-first)**</ins>, and Kaishun Wu*. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2023; 27(2):888-899. **SCI, JCR Q1**. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
