@@ -11,7 +11,7 @@ E-mail: [yanghailiang@gml.ac.cn](mailto:yanghailiang@gml.ac.cn)
 ---
 
 ## Research Interests
-Wireless Networks and Systems, Artificial Intelligence, and Internet of Things.
+FL, tinyML, and IoT.
 
 **Openings: [2024 Fall] Multiple postgraduate positions are available.** Students with similar research interests are welcome to contact him.
 
