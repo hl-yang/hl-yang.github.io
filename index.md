@@ -11,7 +11,7 @@ E-mail: [yanghailiang@gml.ac.cn](mailto:yanghailiang@gml.ac.cn)
 ---
 
 ## Research Interests
-Federated Learning, Tiny Machine Learning, and Internet of Things.
+Wireless Communication and Systems, Edge Computing, and Internet of Things.
 
 **Openings: [2024 Fall] Multiple postgraduate positions are available.** Students with similar research interests are welcome to contact him.
 
