@@ -11,7 +11,7 @@ E-mail: [yanghailiang@gml.ac.cn](mailto:yanghailiang@gml.ac.cn)
 ---
 
 ## Research Interests
-Wireless Communication and Systems, Edge Computing, and Internet of Things.
+Wireless Communication, Federated Learning, Edge Computing, and Internet of Things.
 
 **Openings: [2024 Fall] Multiple postgraduate positions are available.** Students with similar research interests are welcome to contact him.
 
