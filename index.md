@@ -17,6 +17,8 @@ Wireless Communication, Federated Learning, Edge Computing, and Internet of Thin
 
 ---
 ## Academic Services
+TPC Member:
+- IEEE Vehicular Technology Conference 2024 Fall
 
 Reviewer:
 - IEEE Transactions on Mobile Computing
