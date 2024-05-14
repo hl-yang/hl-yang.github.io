@@ -25,6 +25,7 @@ Reviewer:
 - IEEE Vehicular Technology Conference 2022 Spring
 - IEEE Internet of Things Journal
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems
+- Elsevier Engineering Applications of Artificial Intelligence
 - EURASIP Journal on Wireless Communications and Networking
 - MDPI Electronics
 - MDPI Applied Sciences
