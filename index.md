@@ -18,11 +18,11 @@ Wireless Communication, Federated Learning, Edge Computing, and Internet of Thin
 ---
 ## Academic Services
 TPC Member:
-- IEEE Vehicular Technology Conference 2024 Fall
+- IEEE Vehicular Technology Conference 2024
 
 Reviewer:
 - IEEE Transactions on Mobile Computing
-- IEEE Vehicular Technology Conference 2022 Spring
+- IEEE Vehicular Technology Conference
 - IEEE Internet of Things Journal
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems
 - Elsevier Engineering Applications of Artificial Intelligence
