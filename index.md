@@ -27,10 +27,6 @@ Reviewer:
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems
 - Elsevier Engineering Applications of Artificial Intelligence
 - EURASIP Journal on Wireless Communications and Networking
-- MDPI Electronics
-- MDPI Applied Sciences
-- MDPI Sensors
-- MDPI Telecom
 
 ---
 ## Teaching
