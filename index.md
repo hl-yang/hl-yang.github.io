@@ -1,6 +1,6 @@
 ## Biography
 
-Dr. Hailiang Yang is a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen).
+Dr. Hailiang Yang is a Distinguished Associate Research Fellow at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen).
 
 He obtained his B.S. in Communication Engineering from South China Agricultural University in 2016. He received his M.S. and PhD in Computer Science and Technology from Shenzhen University in 2019 and 2022, respectively, under the supervision of [Prof. Kaishun Wu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WU-Kaishun/wuks).
 
@@ -11,7 +11,7 @@ E-mail: [yanghailiang@gml.ac.cn](mailto:yanghailiang@gml.ac.cn)
 ---
 
 ## Research Interests
-Wireless Communication, Federated Learning, Edge Computing, and Internet of Things.
+Wireless Networks, Federated Learning, Edge Computing, and Internet of Things.
 
 **Openings: Multiple postgraduate positions are available.** Students with similar research interests are welcome to contact him.
 
