@@ -1,10 +1,10 @@
 ## Biography
 
-Hailiang Yang is a Distinguished Associate Research Fellow at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen), China.
+Hailiang Yang is a Distinguished Associate Researcher at the Guangdong Laboratory of Artificial Intelligence and Digital Economy (Shenzhen), China.
 
-He obtained his B.Eng in communication engineering from South China Agricultural University in 2016. He received his M.S. and PhD in computer science and technology from Shenzhen University in 2019 and 2022, respectively, under the supervision of [Prof. Kaishun Wu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WU-Kaishun/wuks).
+He received his B.E. in communication engineering from South China Agricultural University in 2016. He received his M.S. and PhD in computer science and technology from Shenzhen University in 2019 and 2022, respectively, under the supervision of [Prof. Kaishun Wu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WU-Kaishun/wuks).
 
-He is a member of the IEEE (SM‘19-PM’22), the ACM (PM‘23), and the CCF (SM’18-PM'22).
+He is a member of the IEEE (SM‘19 - PM’22), the ACM (PM‘23), and the CCF (SM’18 - PM'22).
 
 E-mail: [yanghailiang@gml.ac.cn](mailto:yanghailiang@gml.ac.cn)
 
