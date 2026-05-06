@@ -35,7 +35,7 @@ Reviewer:
 ---
 
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=BeyrndcAAAAJ&hl=en))
-- <ins>Zhongkun Wang, **Hailiang Yang(Co-first)**</ins>, and Laizhong Cui*. Fast-DFL: Flexible Client Switching for Bandwidth-Constrained Hierarchical Decentralized Federated Learning. IEEE ICDCS. 2026. **EI, CCF-B**. Accepted.
+- <ins>Zhongkun Wang, **Hailiang Yang(Co-first)**</ins>, and Laizhong Cui*. Fast-DFL: Flexible Client Switching for Bandwidth-Constrained Hierarchical Decentralized Federated Learning. IEEE ICDCS 2026. **EI, CCF-B**. Accepted.
 - **Hailiang Yang**, Zhongkun Wang, and Laizhong Cui*. Energy-Efficient Federated Learning in Mobile Edge Computing via Fine-grained Energy Planning Client Selection. IEEE Transactions on Mobile Computing. 2026. **SCI, CCF-A, JCR Q1**. [DOI: 10.1109/TMC.2026.3668371](https://doi.org/10.1109/TMC.2026.3668371)
 - **Hailiang Yang**, Rukhsana Ruby, Yipeng Zhou, and Laizhong Cui*. Energy-Efficient Federated Learning in Symbiotic IoT Networks through Heterogeneity-aware Client Sampling. IEEE Internet of Things Journal. 2025. **SCI, JCR Q1**. [DOI: 10.1109/JIOT.2025.3589733](https://doi.org/10.1109/JIOT.2025.3589733)
 - <ins>Rukhsana Ruby, **Hailiang Yang(Co-first)**</ins>, and Kaishun Wu*. Anti-Jamming Strategies for Federated Learning Internet of Medical Things: A Game Approach. IEEE Journal of Biomedical and Health Informatics. 2023; 27(2):888-899. **SCI, JCR Q1**. [DOI: 10.1109/JBHI.2022.3183644](https://doi.org/10.1109/JBHI.2022.3183644)
