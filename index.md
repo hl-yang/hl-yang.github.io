@@ -27,6 +27,7 @@ Reviewer:
 - ACM Transactions on Modeling and Performance Evaluation of Computing Systems
 - Elsevier Engineering Applications of Artificial Intelligence
 - EURASIP Journal on Wireless Communications and Networking
+- Tsinghua Univ Press Big Data Mining and Analytics
 
 ---
 ## Teaching
